@@ -1,0 +1,31 @@
+#openstack-meeting: tacker
+Meeting started by yasufum at 08:01:29 UTC (full logs).
+
+Meeting summary
+https://etherpad.opendev.org/p/tacker-meeting (yasufum, 08:02:07)
+
+Discussion for Tacker Antelope RC2 (yasufum, 08:03:51)
+https://etherpad.opendev.org/p/tacker-antelope-fixes-rc (yuta-kazato, 08:06:56)
+https://review.opendev.org/c/openstack/tacker/+/871224 (yuta-kazato, 08:08:46)
+https://review.opendev.org/c/openstack/tacker/+/871224/34..35 (yuta-kazato, 08:19:59)
+
+About how to abandon the past spec which is not valid (yasufum, 08:24:21)
+Schedule of the next vPTG (yasufum, 08:40:49)
+
+
+Meeting ended at 08:51:47 UTC (full logs).
+
+Action items
+(none)
+
+
+People present (lines said)
+yasufum (44)
+yuta-kazato (24)
+edagawa_kc (9)
+takahashi-tsc (5)
+manpreetk_ (4)
+opendevmeet (3)
+ueha (3)
+hiromu (1)
+
